@@ -73,3 +73,17 @@
 .card-art .product-photo{position:relative;inset:auto;width:auto;height:100%;max-width:100%;object-fit:contain;display:block;z-index:0}
 .dialog-art .product-photo{position:relative;width:auto;height:100%;max-width:100%;object-fit:contain;display:block}
 .dialog-rating.enjoyment-top{margin:0 0 16px;font-size:23px}
+
+/* Keep the full packaging photo visible in both archive cards and entry dialog. */
+.card-art .product-photo,
+.dialog-art .product-photo {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+}
+.dialog-art { height: 250px; }
+@media (max-width: 650px) { .dialog-art { height: 190px; } }
