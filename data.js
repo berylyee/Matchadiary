@@ -16,7 +16,7 @@ window.MATCHA_ENTRIES = [
     scores: { umami: 3, sweetness: 4, bitterness: 2, astringency: 2, body: 3 },
     enjoyment: 8,
     preparation: { matchaGrams: 2, waterMl: 20, milkMl: 80, milk: "Milk not specified", method: "Whisked matcha, then added milk" },
-    image: "",
+    image: "assets/kyogoku-matcha.jpg",
     personalTags: ["nori aroma", "sweet finish", "not grassy"],
     roasterNotes: ""
   }
