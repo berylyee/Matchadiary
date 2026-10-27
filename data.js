@@ -12,13 +12,12 @@ window.MATCHA_ENTRIES = [
     dateTasted: "2026-10-26",
     style: "Latte",
     tastingNotes: [
-      "Aroma: fresh grass",
+      "fresh grass",
       "creamy",
       "malty",
-      "gentle umami"
     ],
-    notesSummary: "Fresh grass · creamy · malty · gentle umami",
-    thoughts: "Less umami than I would have liked. Milky but a bit thin. Not the best but ok for the price. Edit: A bit better after increasing the matcha powder to 2.5 g.",
+    notesSummary: "Fresh grass · creamy · malty",
+    thoughts: "Less umami than I would have liked. Milky but a bit thin. Not the best but ok for the price.         Edit: A bit better after increasing the matcha powder to 2.5 g.",
     scores: {
       umami: 2,
       sweetness: 3,
@@ -39,7 +38,6 @@ window.MATCHA_ENTRIES = [
       "fresh grass aroma",
       "creamy",
       "malty",
-      "gentle umami"
     ],
     roasterNotes: "",
     aroma: "Fresh grass"
