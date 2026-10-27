@@ -56,7 +56,7 @@ window.MATCHA_ENTRIES = [
       "sweet finish"
     ],
     notesSummary: "Nori · gentle umami · sweet finish",
-    thoughts: "My first homemade matcha. It had a nori-like aroma and a pleasant sweet finish. It wasn't grassy, but it also wasn't quite as smooth, rich or sweet as I had hoped. I enjoyed it and would like to explore matchas with deeper umami and more body.",
+    thoughts: "My first homemade matcha. It had a nori-like aroma and a pleasant sweet finish. I enjoyed it and would like to explore matchas with deeper umami and more body.",
     scores: {
       umami: 3,
       sweetness: 4,
