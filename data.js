@@ -17,7 +17,7 @@ window.MATCHA_ENTRIES = [
       "malty",
     ],
     notesSummary: "Fresh grass · creamy · malty",
-    thoughts: "Less umami than I would have liked. Milky but a bit thin. Not the best but ok for the price.         Edit: A bit better after increasing the matcha powder to 2.5 g.",
+    thoughts: "The aroma reminds me of matcha kitkat. Less umami than I would have liked. Milky but a bit thin. Not the best but ok for the price.         Edit: A bit better after increasing the matcha powder to 2.5 g.",
     scores: {
       umami: 2,
       sweetness: 3,
