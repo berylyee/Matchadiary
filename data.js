@@ -33,7 +33,7 @@ window.MATCHA_ENTRIES = [
       milk: "",
       method: ""
     },
-    image: "assets/hoshi-matcha.jpg",
+    image: "assets/hoshi-matcha1.jpg",
     personalTags: [
       "fresh grass aroma",
       "creamy",
